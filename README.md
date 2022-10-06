@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Idinmachukwu
 - 👀 I’m interested in product design
-- 🌱 Frontend dev. (react)
+- 🌱 Frontend dev. {Entry level. (react)}
 - 💞️ I’m looking to collaborate on a lot 
 - 📫 How to reach me idinmaonu@gmail.com
 
